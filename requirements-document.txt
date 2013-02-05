@@ -1,0 +1,18 @@
+As a user I want to be able to play through 10 levels.
+As a user I want to smoothly move the player around using the accelerometer.
+As a user I want awesome graphics that represent each entity in the game.
+As a user I want to see the game on top of a varying background image.
+As a user I want a scoring system based on a timer.
+As a user I want to be able to share my scores.
+As a user I want to see scores on a scoreboard.
+As a user I want to listen to cool music while playing the game.
+As a user I want to run away from enemies with intelligent AI.
+As a user I want to avoid obstacles.
+As a user I want to get points by getting flags and coins.
+As a user I want to make my own levels with a level editor.
+As a developer I want to use git version control.
+As a developer I want to see debug information in the game while developing.
+As a developer I want to use client-server architecture to track high scores.
+As a developer I want to use unit tests to make sure my code works.
+As a developer I want to integrate unit testing with our version control system to always know if code works.
+
